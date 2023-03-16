@@ -1,109 +1,117 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Eddie Webb</title>
-    <link>https://merkhaiburch.netlify.app/</link>
-    <description>Recent content in Home on Eddie Webb</description>
+    <title>Home on Merritt Khaipho-Burch</title>
+    <link>https://merkhaiburch.github.io/</link>
+    <description>Recent content in Home on Merritt Khaipho-Burch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://merkhaiburch.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://merkhaiburch.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Atlassian Deployment Triggers</title>
-      <link>https://merkhaiburch.netlify.app/projects/contributions/deploy-triggers/</link>
+      <title>Zines</title>
+      <link>https://merkhaiburch.github.io/projects/contributions/zines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/projects/contributions/deploy-triggers/</guid>
-      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+      <guid>https://merkhaiburch.github.io/projects/contributions/zines/</guid>
+      <description>Zines are small circulation publications that typically include original or appropriated images and texts. I started creating zines for my scientific projects to hand out at conferences as mementos. My zines typically include an overview of my project, brief results, key takeaways, contact information, and my resume on the inner page. I handout anywhere from 20-60 zines per conference, depending on my poster&amp;rsquo;s location and the size of the conference.</description>
     </item>
     
     <item>
-      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
-      <link>https://merkhaiburch.netlify.app/publications/alldaydevops/</link>
-      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      <title>Elucidating the patterns of pleiotropy and its biological relevance in maize</title>
+      <link>https://merkhaiburch.github.io/publications/pleiotropy/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/publications/alldaydevops/</guid>
-      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
-Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+      <guid>https://merkhaiburch.github.io/publications/pleiotropy/</guid>
+      <description>Short Summary: Pleiotropy is not common in maize Pleiotropy in crop plants is highly constrained by evolution Pleiotropy results may vary by population and trait type Abstract Pleiotropy - when a single gene controls two or more seemingly unrelated traits - has been shown to impact genes with effects on flowering time, leaf architecture, and inflorescence morphology in maize. However, the genome-wide impact of true biological pleiotropy across all maize phenotypes is largely unknown.</description>
     </item>
     
     <item>
-      <title>Added Docker Build Status Badge to shields.io</title>
-      <link>https://merkhaiburch.netlify.app/projects/contributions/shields-docker/</link>
-      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <title>The perils and promise of single-gene solutions to crop yield: extraordinary claims require extraordinary evidence</title>
+      <link>https://merkhaiburch.github.io/publications/yield/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/projects/contributions/shields-docker/</guid>
-      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+      <guid>https://merkhaiburch.github.io/publications/yield/</guid>
+      <description>Short Summary: Increasing crop yield is critical for global populations, yet many crop molecular biology studies are touted as yield breakthroughs without sufficient replication to evaluate field performance, slowing progress within plant breeding. Here we suggest guidelines for the community to rigorously test the effect of genes on crop yield. Abstract Agriculture relies on plant breeding and genetics to deliver the best crop varieties and agronomic practices that will deploy results across nearly a billion hectares of cropland.</description>
     </item>
     
     <item>
-      <title>Schema.org Structured Data documentation fixes</title>
-      <link>https://merkhaiburch.netlify.app/projects/contributions/schema-org/</link>
-      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      <title>Genomic mapping of the modifiers of teosinte crossing barrier 1 (Tcb1)</title>
+      <link>https://merkhaiburch.github.io/publications/tcb1/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/projects/contributions/schema-org/</guid>
-      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+      <guid>https://merkhaiburch.github.io/publications/tcb1/</guid>
+      <description>Short Summary: Tcb1 is one of roughly 10 cross-incompatibility systems in maize. With QTL mapping we found 2 significant QTL that explained 16% and 17% of the phenotypic variation. Markers could be developed to introgress these loci into breeding programs. Abstract Pollen cross-contamination has been a major problem for maize breeders. Mechanical methods applied to avoid cross-contamination are largely ineffective and time-consuming. Cross incompatibility barriers are genetic factors involved in maize fertilization that can be used as an effective method to prevent pollen cross-contamination.</description>
+    </item>
+    
+    <item>
+      <title>Predictive breeding for maize: Making use of molecular phenotypes, machine learning, and physiological crop models</title>
+      <link>https://merkhaiburch.github.io/publications/predictive_breeding/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://merkhaiburch.github.io/publications/predictive_breeding/</guid>
+      <description>Short Summary: The start of genomic prediction began with Meuwissen, Hayes, &amp;amp; Goddard 2011. Standard genomic selection models may benefit from additional information along the central dogma, or outside of it (i.e., expression, metabolites, microbiome). Incorporating crop growth models with genomic prediction may further enchance prediction models. Abstract Maize (Zea mays L.) has been a focus of scientific research and breeding for over a century. It is also one of the most economically important crops in the world, with a value of approximately US$50 billion per year in the United States alone.</description>
+    </item>
+    
+    <item>
+      <title>Limited contribution of transposable elements to regulatory adaptation in maize inbreds and hybrids</title>
+      <link>https://merkhaiburch.github.io/projects/creations/te_expression/</link>
+      <pubDate>Tue, 14 Mar 2023 12:41:05 -0500</pubDate>
+      
+      <guid>https://merkhaiburch.github.io/projects/creations/te_expression/</guid>
+      <description>Project Status: Ongoing Short Summary We developed an inbred and hybrid population from the maize NAM founders and collected RNAseq data from four different tissues. We developed a RNAseq quantification pipeline optimized towards highly repetitive, complex genomes. I am currently building models to quantify the scale of TE effects towards gene expression. Abstract Transposable elements (TEs) contribute to ~85% of the maize genome and have been shown to impact genome structure and gene regulation by rearranging, adding, disrupting, or silencing endogenous promoters.</description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://merkhaiburch.netlify.app/blog/2020-12-01-r-rmarkdown/</link>
+      <link>https://merkhaiburch.github.io/blog/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/blog/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://merkhaiburch.github.io/blog/2020-12-01-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://merkhaiburch.netlify.app/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      
-      <guid>https://merkhaiburch.netlify.app/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
-    </item>
-    
-    <item>
       <title>Forcing Visits to use SSL</title>
-      <link>https://merkhaiburch.netlify.app/blog/force-ssl/</link>
+      <link>https://merkhaiburch.github.io/blog/force-ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/blog/force-ssl/</guid>
+      <guid>https://merkhaiburch.github.io/blog/force-ssl/</guid>
       <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
 First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
     </item>
     
     <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://merkhaiburch.netlify.app/projects/creations/marketplace/</link>
+      <title>Elucidating the patterns of pleiotropy and its biological relevance in maize</title>
+      <link>https://merkhaiburch.github.io/projects/creations/pleiotropy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
-    </item>
-    
-    <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://merkhaiburch.netlify.app/projects/creations/docker-marketplace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://merkhaiburch.netlify.app/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>https://merkhaiburch.github.io/projects/creations/pleiotropy/</guid>
+      <description>Project Status: Complete Short Summary: Pleiotropy is not common in maize Pleiotropy in crop plants is highly constrained by evolution Pleiotropy results may vary by population and trait type Abstract Pleiotropy - when a single gene controls two or more seemingly unrelated traits - has been shown to impact genes with effects on flowering time, leaf architecture, and inflorescence morphology in maize. However, the genome-wide impact of true biological pleiotropy across all maize phenotypes is largely unknown.</description>
     </item>
     
     <item>
       <title>Search Results</title>
-      <link>https://merkhaiburch.netlify.app/search/</link>
+      <link>https://merkhaiburch.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/search/</guid>
+      <guid>https://merkhaiburch.github.io/search/</guid>
       <description>This file exists solely to respond to /search URL with the related search layout template.
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
 Initial setup Search depends on additional output content type of JSON in config.toml
 [outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+    <item>
+      <title>The perils and promise of single-gene solutions to crop yield: extraordinary claims require extraordinary evidence.</title>
+      <link>https://merkhaiburch.github.io/projects/creations/yield_project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://merkhaiburch.github.io/projects/creations/yield_project/</guid>
+      <description>Project Status: Under Revision Short Summary: Increasing crop yield is critical for global populations, yet many crop molecular biology studies are touted as yield breakthroughs without sufficient replication to evaluate field performance, slowing progress within plant breeding. Here we suggest guidelines for the community to rigorously test the effect of genes on crop yield. Abstract Agriculture relies on plant breeding and genetics to deliver the best crop varieties and agronomic practices that will deploy results across nearly a billion hectares of cropland.</description>
     </item>
     
   </channel>

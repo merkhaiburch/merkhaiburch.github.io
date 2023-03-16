@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Eddie Webb</title>
-    <link>https://merkhaiburch.netlify.app/projects/</link>
-    <description>Recent content in Projects on Eddie Webb</description>
+    <title>Projects on Merritt Khaipho-Burch</title>
+    <link>https://merkhaiburch.github.io/projects/</link>
+    <description>Recent content in Projects on Merritt Khaipho-Burch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate><atom:link href="https://merkhaiburch.netlify.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Mar 2023 12:41:05 -0500</lastBuildDate><atom:link href="https://merkhaiburch.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creations on Eddie Webb</title>
-    <link>https://merkhaiburch.netlify.app/projects/creations/</link>
-    <description>Recent content in Creations on Eddie Webb</description>
+    <title>Creations on Merritt Khaipho-Burch</title>
+    <link>https://merkhaiburch.github.io/projects/creations/</link>
+    <description>Recent content in Creations on Merritt Khaipho-Burch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://merkhaiburch.netlify.app/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://merkhaiburch.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>BOSH release for Bamboo &amp; Remote Agents</title>
-      <link>https://merkhaiburch.netlify.app/projects/creations/bosh-agents/</link>
-      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <title>Limited contribution of transposable elements to regulatory adaptation in maize inbreds and hybrids</title>
+      <link>https://merkhaiburch.github.io/projects/creations/te_expression/</link>
+      <pubDate>Tue, 14 Mar 2023 12:41:05 -0500</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/projects/creations/bosh-agents/</guid>
-      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+      <guid>https://merkhaiburch.github.io/projects/creations/te_expression/</guid>
+      <description>Project Status: Ongoing Short Summary We developed an inbred and hybrid population from the maize NAM founders and collected RNAseq data from four different tissues. We developed a RNAseq quantification pipeline optimized towards highly repetitive, complex genomes. I am currently building models to quantify the scale of TE effects towards gene expression. Abstract Transposable elements (TEs) contribute to ~85% of the maize genome and have been shown to impact genome structure and gene regulation by rearranging, adding, disrupting, or silencing endogenous promoters.</description>
     </item>
     
     <item>
-      <title>Atlassian Marketplace Plugins</title>
-      <link>https://merkhaiburch.netlify.app/projects/creations/marketplace/</link>
+      <title>Elucidating the patterns of pleiotropy and its biological relevance in maize</title>
+      <link>https://merkhaiburch.github.io/projects/creations/pleiotropy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/projects/creations/marketplace/</guid>
-      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+      <guid>https://merkhaiburch.github.io/projects/creations/pleiotropy/</guid>
+      <description>Project Status: Complete Short Summary: Pleiotropy is not common in maize Pleiotropy in crop plants is highly constrained by evolution Pleiotropy results may vary by population and trait type Abstract Pleiotropy - when a single gene controls two or more seemingly unrelated traits - has been shown to impact genes with effects on flowering time, leaf architecture, and inflorescence morphology in maize. However, the genome-wide impact of true biological pleiotropy across all maize phenotypes is largely unknown.</description>
     </item>
     
     <item>
-      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
-      <link>https://merkhaiburch.netlify.app/projects/creations/docker-marketplace/</link>
+      <title>The perils and promise of single-gene solutions to crop yield: extraordinary claims require extraordinary evidence.</title>
+      <link>https://merkhaiburch.github.io/projects/creations/yield_project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://merkhaiburch.netlify.app/projects/creations/docker-marketplace/</guid>
-      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+      <guid>https://merkhaiburch.github.io/projects/creations/yield_project/</guid>
+      <description>Project Status: Under Revision Short Summary: Increasing crop yield is critical for global populations, yet many crop molecular biology studies are touted as yield breakthroughs without sufficient replication to evaluate field performance, slowing progress within plant breeding. Here we suggest guidelines for the community to rigorously test the effect of genes on crop yield. Abstract Agriculture relies on plant breeding and genetics to deliver the best crop varieties and agronomic practices that will deploy results across nearly a billion hectares of cropland.</description>
     </item>
     
   </channel>
